@@ -2,6 +2,14 @@
 
 This React Native app allows you to generate a QR code from any text or link you input. The app features a gradient background and animated elements to enhance the user experience. Additionally, it supports saving and sharing the generated QR code.
 
+## Preview
+[View on snack](https://snack.expo.dev/@btkcodedev/qrgenative?platform=android) 
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/c1835dc6-bb1e-4d1d-b5cb-bff035d53051)
+![image](https://github.com/user-attachments/assets/edf3b229-2228-4655-9755-5dfb1bd83828)
+
+
 ## Features
 
 - **Generate QR Code**: Enter any text or URL, and the app will generate a corresponding QR code.
